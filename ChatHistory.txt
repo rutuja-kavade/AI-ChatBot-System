@@ -1,0 +1,72 @@
+User : hii
+Bot  : I could not understand your question. Please try rephrasing it.
+---------------------------------
+User : what is java
+Bot  : Java is a powerful object-oriented programming language.
+---------------------------------
+User : what is python
+Bot  : I could not understand your question. Please try rephrasing it.
+---------------------------------
+User : hii
+Bot  : I could not understand your question. Please try rephrasing it.
+---------------------------------
+User : hii
+Bot  : I could not understand your question. Please try rephrasing it.
+---------------------------------
+User : Hii
+Bot  : I could not understand your question. Please try rephrasing it.
+---------------------------------
+User : Hii
+Bot  : Hi! How can I assist you today?
+---------------------------------
+User : how are you
+Bot  : I am functioning perfectly. Thank you for asking.
+---------------------------------
+User : what is oops
+Bot  : OOP stands for Object-Oriented Programming.
+---------------------------------
+User : what is html
+Bot  : HTML is used to create web pages.
+---------------------------------
+User : thank you
+Bot  : You're welcome.
+---------------------------------
+User : hii
+Bot  : Hi! How can I assist you today?
+---------------------------------
+User : how are you
+Bot  : I am functioning perfectly. Thank you for asking.
+---------------------------------
+User : what is AI
+Bot  : Artificial Intelligence enables machines to learn and make decisions.
+---------------------------------
+User : How to get a job
+Bot  : Keep improving your skills and applying regularly for opportunities.
+---------------------------------
+User : what is oops
+Bot  : OOP stands for Object-Oriented Programming.
+---------------------------------
+User : tank you
+Bot  : Sorry, I don't have information about that yet. Please ask another question.
+---------------------------------
+User : Hii
+Bot  : Hi! How can I assist you today?
+---------------------------------
+User : how are you
+Bot  : I am functioning perfectly. Thank you for asking.
+---------------------------------
+User : what is ai
+Bot  : Artificial Intelligence enables machines to learn and make decisions.
+---------------------------------
+User : how  to get ajob
+Bot  : Keep improving your skills and applying regularly for opportunities.
+---------------------------------
+User : whay are project is important
+Bot  : Projects help improve coding and problem-solving skills.
+---------------------------------
+User : what is oops
+Bot  : OOP stands for Object-Oriented Programming.
+---------------------------------
+User : thank you
+Bot  : You're welcome.
+---------------------------------
